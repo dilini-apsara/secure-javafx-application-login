@@ -1,0 +1,16 @@
+
+.error .text-field, .error .password-field{
+    -fx-boarder-color:red;
+    -fx-text-color:red;
+}
+.button{
+    -fx-background-color: white;
+}
+
+.button:focused {
+    -fx-background-color: #36b4e1;
+}
+
+.button:hover {
+    -fx-background-color: lightgray;
+}
